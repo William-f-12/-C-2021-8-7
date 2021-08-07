@@ -1,0 +1,1 @@
+C:\Users\William Lu\OneDrive\文档\黑马-C++学习\26 C++STL函数对象\Debug\26 C++STL函数对象.exe
